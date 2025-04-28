@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+E:/199/philippines-geodata/Municipalities.zip filter=lfs diff=lfs merge=lfs -text
